@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chafi Abderrahmane</h1>
-<h3 align="center">Web Application Developer from Morocco</h3>
+<h3 align="center">👨‍💻 Engineering student in computer science and networks</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abderrahmane-chafi&label=Profile%20views&color=0e75b6&style=flat" alt="abderrahmane-chafi" /> </p>
 
@@ -7,8 +7,8 @@
 
 - 📫 How to reach me **abderrahmanedev@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+
+<p align="left"> <h3>Connect with me:</h3>
 <a href="https://linkedin.com/in/abderrahmane chafi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abderrahmane chafi" height="30" width="40" /></a>
 </p>
 
